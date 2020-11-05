@@ -1,4 +1,6 @@
 print('hello world')
 
+paste0('Lubie placki',12121)
+
 print("Output from branch MASTER")
 print("Results from branch MASTER")
