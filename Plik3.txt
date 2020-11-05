@@ -10,3 +10,4 @@ print("Jakas zmiana")
 print("CODE IN PROGRESS")
 print("CODE IN PROGRESS")
 print("CODE IN PROGRESS")
+
