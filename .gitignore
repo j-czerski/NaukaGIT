@@ -1,0 +1,4 @@
+# nie sldze plikow csv
+*.csv
+# nie sledze katalogu config
+config/
