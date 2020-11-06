@@ -2,3 +2,5 @@ Tutaj drugi plik.
 Plan pracy:
 1. Inicjalizacja
 2. Specyfikacja wymagañ
+
+Tutaj wiecej konfiguracjijakies rzeczy literki literki
